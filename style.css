@@ -1,0 +1,19 @@
+style.css
+
+hi {
+    color: green;
+}
+
+hi {
+    border-style: double;
+    border-color: orange;
+}
+
+body {
+    background-color: rebeccapurple;
+    font-family: "Montserrat", sans-serif;
+}
+
+img {
+    margin-right: auto;
+}
